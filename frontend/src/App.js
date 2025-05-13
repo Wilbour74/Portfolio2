@@ -65,7 +65,7 @@ function App() {
           </ul>
         </nav>
 
-        <div className="tab-content">
+        <div>
           {renderContent()}
         </div>
         <footer className="bg-black text-white p-4 text-center">
